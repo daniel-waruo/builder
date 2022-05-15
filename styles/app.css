@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.logo {
+    float: left;
+    width: 120px;
+    height: 31px;
+    color: white;
+}
+
+.ant-row-rtl .logo {
+    float: right;
+    margin: 16px 0 16px 24px;
+}
+
+.site-layout-background {
+    background: #fff;
+}
+
+.site-layout-content {
+    padding: 24px;
+    margin: 0;
+    height: 74vh;
+    overflow: hidden;
+}
